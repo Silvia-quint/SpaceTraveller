@@ -72,13 +72,11 @@ a {
                 }
 
     .texto-principal {
-        /*background: #ffc2b4;*/
         height: 580px;
         display: flex;
         align-items: center;
     }
         .titulo{
-            /*background: rgba(0, 0, 0, .2);*/
             font-family: "lora" serif;
             font-size: 20px;
             color: #fff;
